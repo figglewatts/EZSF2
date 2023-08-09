@@ -1,6 +1,6 @@
 # EZSF2
 
-[![NuGet](https://img.shields.io/nuget/v/EZSF2.svg)](https://www.nuget.org/packages/Your.PackageName/)
+[![NuGet](https://img.shields.io/nuget/v/EZSF2.svg)](https://www.nuget.org/packages/EZSF2/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 C# library for loading SoundFont 2 files.
