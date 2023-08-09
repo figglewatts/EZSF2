@@ -11,7 +11,13 @@
         <PackageProjectUrl>https://github.com/figglewatts/EZSF2</PackageProjectUrl>
         <RepositoryUrl>https://github.com/figglewatts/EZSF2</RepositoryUrl>
         <PackageTags>soundfont</PackageTags>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
     </PropertyGroup>
+    
+    <ItemGroup>
+        <None Include="README.md" Pack="true" PackagePath="\"/>
+    </ItemGroup>
 
     <ItemGroup>
       <PackageReference Include="System.Memory" Version="4.5.5" />
